@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1662133310 source:g:\my drive\my pc\drive  software and files\green university\3rd term\cse106\project\product record management system\prm\main.cpp
+	<iostream>
+	<string>
+	<stdlib.h>
+	<math.h>
+	<windows.h>
+	<conio.h>
+	<iomanip>
+
